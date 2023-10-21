@@ -1,0 +1,1 @@
+# K8S-Davinci-Resolve-Project-Server
